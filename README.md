@@ -21,15 +21,6 @@ This project uses machine learning to classify text messages and emails as eithe
   - F1-Score
 - Confusion matrix visualization
 
-## 📦 Dependencies
-
-Install required Python packages using:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn nltk
-
-
-
 📊 Dataset
 The dataset contains labeled messages categorized as:
 
@@ -40,6 +31,15 @@ You may download similar datasets from the UCI ML Repository.
 
 🧠 Model Performance
 Multiple models are trained and evaluated. Metrics such as F1-score and confusion matrix help determine the best-performing model.
+
+
+## 📦 Dependencies
+
+Install required Python packages using:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn nltk
+
 
 ✍️ Author
 Developed by Yi Yun Khor, Loo Xuan Wen and Yi Hong Lim,  computer science students passionate about machine learning and natural language processing.
