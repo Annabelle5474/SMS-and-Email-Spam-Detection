@@ -25,6 +25,7 @@ This project uses machine learning to classify text messages and emails as eithe
 The dataset contains labeled messages categorized as:
 
 ham: legitimate messages
+
 spam: unwanted messages
 
 You may download similar datasets from the UCI ML Repository.
